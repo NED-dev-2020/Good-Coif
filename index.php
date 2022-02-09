@@ -227,7 +227,7 @@
 </div>
 	
 
-<script type="text/javascript" src="static/bootstrap/js/bootstrap.js"></script>
+<script type="text/javascript" src="static/Bootstrap/js/bootstrap.js"></script>
 </body>
 </html>
 
