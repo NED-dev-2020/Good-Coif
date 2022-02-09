@@ -66,17 +66,17 @@
 				</div>
 
 				<div class="col-md-4 p-1">
-					<img src="static/img/3.jpg">
+					<img src="https://images.pexels.com/photos/7755499/pexels-photo-7755499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
 				</div>
 			</div>
 
 			<div class="row img_femme">
 				<div class="col-md-8 p-1">
-					<img src="static/img/5.jpg">
+					<img src="https://images.pexels.com/photos/7640404/pexels-photo-7640404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
 				</div>
 
 				<div class="col-md-4 p-1">
-					<img src="static/img/1.jpg">
+					<img src="https://images.pexels.com/photos/6948124/pexels-photo-6948124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
 				</div>
 			</div>
 		</div>
