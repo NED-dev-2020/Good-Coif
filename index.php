@@ -20,6 +20,9 @@
 				#coif{
 					max-width: 90%;
 				}
+				#tete{
+					padding-top: 100px;
+				}
 			}
 		</style>
 
@@ -31,7 +34,7 @@
 		
 		<div style="height: 500px; width: 100%; position: absolute; background-color: rgba(0, 0, 0, 0.5); z-index: 1000; padding-left: 10%; padding-top: 10%;">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-12" id="tete">
 
 					<h1 style="font-size: 44px; font-weight: 700; color: #fff;">GOOD <span style="font-size: 40px;">coif.</span></h1>
 
