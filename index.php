@@ -21,7 +21,7 @@
 					max-width: 90%;
 				}
 				#tete{
-					padding-top: 100px;
+					padding-top: 80px;
 				}
 			}
 		</style>
