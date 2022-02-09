@@ -13,6 +13,9 @@
 <!-- header -->
 
 	<style type="text/css">
+		#coif{
+			max-width: 50%;
+		}
 			@media (min-width: 796px){
 				#coif{
 					width: 90%;
@@ -32,7 +35,7 @@
 
 					<h1 style="font-size: 44px; font-weight: 700; color: #fff;">GOOD <span style="font-size: 40px;">coif.</span></h1>
 
-					<p style="max-width: 50%; color: rgba(200, 200, 200, 0.8);" id="coif">Le choix est vaste, les outils comme les fers à friser et les lisseurs permettent toutes les fontaisies,Une fois que nous avons trouvé la coupe qui correspond le mieux à notre forme de visage,il est important de se coiffer. Bienvenue...</p>
+					<p style=" color: rgba(200, 200, 200, 0.8);" id="coif">Le choix est vaste, les outils comme les fers à friser et les lisseurs permettent toutes les fontaisies,Une fois que nous avons trouvé la coupe qui correspond le mieux à notre forme de visage,il est important de se coiffer. Bienvenue...</p>
 
 					<button type="button" class="btn text-light" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@getbootstrap" style="background-color:#2B3856;">Réservation</button>
 
