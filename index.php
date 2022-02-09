@@ -18,7 +18,7 @@
 		}
 			@media (min-width: 796px){
 				#coif{
-					width: 90%;
+					max-width: 90%;
 				}
 			}
 		</style>
