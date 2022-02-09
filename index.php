@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="static/Bootstrap/css/bootstrap.css">
 <link rel="stylesheet" type="text/css" href="static/css/style.css">
-<link rel="stylesheet" type="text/css" href="static/fontawesome/css/all.min.css">
+<link rel="stylesheet" type="text/css" href="https://good-tacos.herokuapp.com/static/fontawesome/css/all.min.css">
 <title>Good Coiffe</title>
 </head>
 <body>
