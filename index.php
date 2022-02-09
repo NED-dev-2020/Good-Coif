@@ -16,7 +16,7 @@
 		#coif{
 			max-width: 50%;
 		}
-			@media (min-width: 796px){
+			@media (max-width: 796px){
 				#coif{
 					max-width: 90%;
 				}
