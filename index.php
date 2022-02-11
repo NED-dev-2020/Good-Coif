@@ -11,27 +11,25 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8150629877562817"
      crossorigin="anonymous"></script>
 	
+<style type="text/css">
+	#coif{
+		max-width: 50%;
+	}
+	@media (max-width: 796px){
+		#coif{
+			max-width: 90%;
+		}
+		#tete{
+			padding-top: 80px;
+		}
+	}
+		</style>
+	
 <title>Good Coiffe</title>
 </head>
 <body>
 
 <!-- header -->
-
-	<style type="text/css">
-		#coif{
-			max-width: 50%;
-		}
-			@media (max-width: 796px){
-				#coif{
-					max-width: 90%;
-				}
-				#tete{
-					padding-top: 80px;
-				}
-			}
-		</style>
-
-		<title>La jeunesse</title>
 
 
 	
@@ -43,7 +41,7 @@
 
 					<h1 style="font-size: 44px; font-weight: 700; color: #fff;">GOOD <span style="font-size: 40px;">coif.</span></h1>
 
-					<p style=" color: rgba(200, 200, 200, 0.8); font-size: 18px;" id="coif">Le choix est vaste, les outils comme les fers à friser et les lisseurs permettent toutes les fontaisies, Une fois que nous avons trouvé la coupe qui correspond le mieux à notre forme de visage, il est important de se coiffer.</p>
+					<p style=" color: rgba(200, 200, 200, 0.8); font-size: 18px; text-align: justify; font-family: Century Gothic;" id="coif">Le choix est vaste, les outils comme les fers à friser et les lisseurs permettent toutes les fontaisies, Une fois que nous avons trouvé la coupe qui correspond le mieux à notre forme de visage, il est important de se coiffer.</p>
 
 					<button type="button" class="btn text-light" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@getbootstrap" style="background-color:#2B3856;">Réservation</button>
 
@@ -56,10 +54,10 @@
 
 <!-- contenu -->
 
-<div class="container mt-4">
-	<div class="roW" style="background-color:#2B3856;">
+<div class="container mt-4 p-0">
+	<div class="roW" style="background-color:#2B3856; p-0">
 		<div class="col-md-12 py-1">
-			<h3 class="text-light px-5 " >Femme</h3>
+			<h3 class="text-light px-3 " >Femme</h3>
 		</div>
 	</div>
 
@@ -119,10 +117,10 @@
 	</div>
 
 
-<div class="container mt-4">
-	<div class="roW" style="background-color:#2B3856;">
+<div class="container mt-4 p-0">
+	<div class="roW" style="background-color:#2B3856; p-0">
 		<div class="col-md-12 py-1">
-			<h3 class="text-light px-5 " >Homme</h3>
+			<h3 class="text-light px-3 " >Homme</h3>
 		</div>
 	</div>
 
