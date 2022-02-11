@@ -6,7 +6,7 @@
 
 <link rel="stylesheet" type="text/css" href="static/Bootstrap/css/bootstrap.css">
 <link rel="stylesheet" type="text/css" href="static/css/style.css">
-<link rel="stylesheet" type="text/css" href="/static/fontawesome/css/all.css">
+<link rel="stylesheet" type="text/css" href="static/fontawesome/css/all.min.css">
 	
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8150629877562817"
      crossorigin="anonymous"></script>
@@ -97,24 +97,6 @@
 	</div>
 
 </div>
-
-<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8150629877562817"
-				     crossorigin="anonymous"></script>
-				<ins class="adsbygoogle"
-				     style="display:block"
-				     data-ad-format="fluid"
-				     data-ad-layout-key="-fb+5w+4e-db+86"
-				     data-ad-client="ca-pub-8150629877562817"
-				     data-ad-slot="4185575874"></ins>
-				<script>
-				     (adsbygoogle = window.adsbygoogle || []).push({});
-				</script>
-			</div>
-		</div>
-	</div>
 
 
 <div class="container mt-4 p-0">
@@ -242,12 +224,14 @@
 			<textarea name="message" placeholder="Message..." class="form-control" required="" ></textarea>
 		</div>
 		
+		<div class="modal-footer">
+        		<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Fermer</button>
+        		<input type="submit" name="" value="Envoyer" class="btn btn-primary">
+      		</div>
+		
 	</form>
       </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Fermer</button>
-        <input type="submit" name="" value="Envoyer" class="btn btn-primary">
-      </div>
+      
     </div>
   </div>
 </div>
