@@ -39,8 +39,10 @@
 	
 	<div class="contenair-fluid p-0" style="background-image: url('https://images.pexels.com/photos/7128580/pexels-photo-7128580.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260' );height: 500px; background-size: cover; background-position: center;"> 
 		
-		
-			<div class="row p-0 m-0" style="height: 500px; background-color: rgba(0, 0, 0, 0.5); padding-left: 10%; padding-top: 10%;">
+			
+		<div style="height: 500px; width: 100%; position: absolute; background-color: rgba(0, 0, 0, 0.5); z-index: 1000; padding-left: 10%; padding-top: 10%;">
+			
+			<div class="row">
 				<div class="col-md-12" id="tete">
 
 					<h1 style="font-size: 44px; font-weight: 700; color: #fff;">GOOD <span style="font-size: 40px;">coif.</span></h1>
@@ -51,6 +53,7 @@
 
 				</div>
 			</div>
+		</div>
 		
 	</div>
 		
