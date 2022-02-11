@@ -39,7 +39,7 @@
 	
 	<div class="contenair-fluid" style="background-image: url('https://images.pexels.com/photos/7128580/pexels-photo-7128580.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260' );height: 500px; background-size: cover; background-position: center;"> 
 		
-		<div style="height: 500px; width: 100%; position: absolute; background-color: rgba(0, 0, 0, 0.5); z-index: 1000; padding-left: 10%; padding-top: 10%;">
+		<div style="height: 500px; top: 0; left: 0; right: 0; position: absolute; background-color: rgba(0, 0, 0, 0.5); z-index: 1000; padding-left: 10%; padding-top: 10%;">
 			<div class="row">
 				<div class="col-md-12" id="tete">
 
