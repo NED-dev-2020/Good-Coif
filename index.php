@@ -6,7 +6,9 @@
 
 <link rel="stylesheet" type="text/css" href="static/Bootstrap/css/bootstrap.css">
 <link rel="stylesheet" type="text/css" href="static/css/style.css">
+	
 <link rel="stylesheet" type="text/css" href="static/fontawesome/css/all.min.css">
+	
 	
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8150629877562817"
      crossorigin="anonymous"></script>
@@ -238,6 +240,7 @@
 	
 
 <script type="text/javascript" src="static/Bootstrap/js/bootstrap.js"></script>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </body>
 </html>
 
